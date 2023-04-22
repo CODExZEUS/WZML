@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "oceanic-citadel-380315",
+  "private_key_id": "a229a2a071c6884d56a60a971646fcb357e19b68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDh4Ha0PxRccoSG\niBk9khfLI84LQiNvKNwagWqN3XTpdHsVkf7xpKljqcMloMCeg/hf8N1NFEgd37Sp\n8Dp1Gxpvxgn2oKBFZ/Y6PCYMHXGCT/Bdnc8TGh2ZHnGu6n8W4ztjYd69KQAgBCBe\nVKx3DtErvv0f5mPjcc4gzJSvIzSXlej8E4EojGybTqCS+YBdMag7Jqix7UAQ0DWS\nFwK6J87R4mUB9tUZ1XmT1BVeOX0rzOhENrnoFVgu7ChydXv6S3VZE+Slye9eSi3V\nSTkAZoerehJMs5rirw/9q0xKsRkhwZWud2ygV3J1cU15y6fq1irhmbNXv5b6IXJx\nIvTnMpzPAgMBAAECggEAbGzWLlG1UWc7TGTaUN7nAwEt7+OQpNRlS2fiITUz4Lik\nOMd7LL2Q/iFIZrCSpcTNnig94rkgoQ54Z7bEKOCYwRy8PaH/LTHpVSz4Sop7qUT8\nKcQN2aqImK6vfXpdBTyQjnU1eXHL+JJig0V8AC6ho7ErSnvKaSyA+OebW7K3lSde\n1jTvERDkYZfhMTmrzoxDpolGBGwc2zy0LKqmLoPd43KpPylShO4Mdwp8VJOp6OBq\nc6KYruAts+43Daf1oVz8XTg3+fYVLZpxkscYS8nQZ7smCMA1SNE6WRszxGpVLSjP\n688SpzoABYi6dpxL1SqXbmL17S6zjyMlzbjnZHcYYQKBgQD38WtkLQjLfqe0A+Zm\ndAf6bZCX6Lg0o1hKPOp4VjEiFuSx5On4lX1zzA+WFR6d8IcLRBcPY16BO3CfQ5ff\nq4b8otdscfmgR4mCz6z9SLLIowi08TOM5OgJnatYNFtaj8YWgRjyTNy8MAVWPH08\nh/cUGVW19zvw2wq3qu11x7iv8QKBgQDpN3r2tiIvtfpmq6WRtdzqYXy8p29px6s9\nVxZ27qTMnnj0MOz7IOPQlZNNc1bLC8NZpLCDKUgTC9SzDUxNvrHfCkrpgi+sDAWw\nhWfNYZK47OSDZsK5vBILOvxTPCIXJMz3KSVMqelOyhc2g7bvVU+Py94KJt7lzJ3p\nVqlVgzTYvwKBgQDh5eVQSe+fZ+/nhT4fzkuOkNCSdweNfd1tFf8SUIVHZ9BJfCTn\nxVudaygwN2HDyGdhjlHsRT7PQ5aipHT05lSATOU0+srSixrwQcJ8qgWp41CFetTa\n45u9VxfLrzgkVKXHzyspZ3odQys5nLcFtWMZvtNmjLDiCs/C80qSarsMIQKBgFyX\n7nYtcf1HXxeMZrwnXIKiGgg84fs5jz9XaE/oB/5FnPg2xKAgOtMBz+4cMQWEshbR\nUFOC/F6zf8tnKDhl0fEgAQYc7hh83XVsQf5FEx/gzgltrzpW9UMINE5HvbE6pzYq\nW+jIPR1PF1BJk0QKtv/8jTeynyTVzIxsH+cXpM+5AoGAUt97NcDwaauPI7lvGzrD\nNSvasyaIJ3lQmkwT2/4xaLtO1nsIv/roaQBtEy9tvJz2fINEVkCM5kMRcC02aBnN\nLBdsK/PDvNxO5VApbI0XrMS7DJhTY/FM4RVZTh1/LZHZumTHrqPzAmdT3hx2I3XX\n0T1OPI2Ql+BD+QL0qyvhNZA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-q9sn2d1a27bxx29qdw3urz3ogi@oceanic-citadel-380315.iam.gserviceaccount.com",
+  "client_id": "107616808992588133112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-q9sn2d1a27bxx29qdw3urz3ogi%40oceanic-citadel-380315.iam.gserviceaccount.com"
+}
